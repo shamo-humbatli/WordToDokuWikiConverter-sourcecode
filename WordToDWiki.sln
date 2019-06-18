@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordToDWiki", "WordToDWiki\WordToDWiki.csproj", "{1C053789-8AC4-41A4-B6B2-0DF2809E66BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroMWordLib", "WordToDWiki\lib\MicroMWordLib\MicroMWordLib.csproj", "{88610CA9-CC05-4B43-8C01-FE591A460986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleImage", "WordToDWiki\lib\LittleImage\LittleImage.csproj", "{15C0EF3E-BCC0-417D-B8ED-6AF5B4AD35E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DokuWikiFormatter", "WordToDWiki\lib\DokuWikiFormatter\DokuWikiFormatter.csproj", "{67FAD499-758C-42CB-BEE6-10BA306FFEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleLyreLogger", "WordToDWiki\lib\LittleLyreLogger\LittleLyreLogger.csproj", "{3FD666DD-2706-4A80-8D85-E59A99690802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C053789-8AC4-41A4-B6B2-0DF2809E66BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C053789-8AC4-41A4-B6B2-0DF2809E66BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C053789-8AC4-41A4-B6B2-0DF2809E66BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C053789-8AC4-41A4-B6B2-0DF2809E66BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88610CA9-CC05-4B43-8C01-FE591A460986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88610CA9-CC05-4B43-8C01-FE591A460986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88610CA9-CC05-4B43-8C01-FE591A460986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88610CA9-CC05-4B43-8C01-FE591A460986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C0EF3E-BCC0-417D-B8ED-6AF5B4AD35E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C0EF3E-BCC0-417D-B8ED-6AF5B4AD35E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C0EF3E-BCC0-417D-B8ED-6AF5B4AD35E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C0EF3E-BCC0-417D-B8ED-6AF5B4AD35E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FAD499-758C-42CB-BEE6-10BA306FFEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FAD499-758C-42CB-BEE6-10BA306FFEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FAD499-758C-42CB-BEE6-10BA306FFEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FAD499-758C-42CB-BEE6-10BA306FFEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD666DD-2706-4A80-8D85-E59A99690802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD666DD-2706-4A80-8D85-E59A99690802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD666DD-2706-4A80-8D85-E59A99690802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD666DD-2706-4A80-8D85-E59A99690802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A163FCFA-6E4E-43C9-986A-E0E8245A332C}
+	EndGlobalSection
+EndGlobal
